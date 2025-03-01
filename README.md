@@ -8,3 +8,6 @@ an TJ Media Karaoke File to MIDI / KAR Converter Inspired by kor095
     pyautogui → pip install pyautogui
 
 via on Terminal / Shell : pip install requests psutil pyautogui
+
+# KEY 
+Ym9pbmd0am1mbWVkaWFLRVk=
