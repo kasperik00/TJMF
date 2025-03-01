@@ -1,2 +1,10 @@
 # TJMF
-an TJ Media Karaoke File to MIDI / KAR Converter
+an TJ Media Karaoke File to MIDI / KAR Converter Inspired by kor095
+
+# Modules to install via pip:
+
+    requests → pip install requests
+    psutil → pip install psutil
+    pyautogui → pip install pyautogui
+
+via on Terminal / Shell : pip install requests psutil pyautogui
