@@ -1,3 +1,5 @@
+# V2 Coming out Stay Tuned.
+
 # TJMF
 an TJ Media Karaoke File to MIDI / KAR Converter Inspired by kor095
 
